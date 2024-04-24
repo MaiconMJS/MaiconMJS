@@ -10,5 +10,5 @@ Aqui estão algumas das principais tecnologias com as quais trabalho todos os di
 | ![Vue.js](vue.jpg) | **Vue.js** é um framework progressivo para construir interfaces de usuário. | [Mais sobre Vue.js](https://vuejs.org) |
 | ![Firebase](firebase.png) | **Firebase** fornece uma suite de ferramentas para desenvolver aplicativos de alta qualidade rapidamente, incluindo funcionalidades como banco de dados, autenticação, e hospedagem. | [Mais sobre Firebase](https://firebase.google.com) |
 | ![MongoDB](mongodb.png) | **MongoDB** é um sistema de banco de dados NoSQL orientado a documentos, que uso para gerenciar grandes conjuntos de dados com estruturas flexíveis. | [Mais sobre MongoDB](https://www.mongodb.com) |
-| ![VPS](vps_servers.png.png) | Tenho conhecimento em administração de **Servidores Virtuais Privados (VPS)**, gerenciando e configurando ambientes de servidor para desempenho e segurança otimizados. | [Mais sobre VPS](https://www.digitalocean.com/community/tutorials/a-comprehensive-introduction-to-managing-your-servers) |
+| ![VPS](vps_servers.png) | Tenho conhecimento em administração de **Servidores Virtuais Privados (VPS)**, gerenciando e configurando ambientes de servidor para desempenho e segurança otimizados. | [Mais sobre VPS](https://www.digitalocean.com/community/tutorials/a-comprehensive-introduction-to-managing-your-servers) |
 
