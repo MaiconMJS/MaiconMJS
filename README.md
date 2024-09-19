@@ -3,7 +3,7 @@
 Aqui estão algumas das principais tecnologias com as quais trabalho todos os dias. Cada uma delas desempenha um papel fundamental em meus projetos de desenvolvimento de software.
 
 | <a href="https://www.linkedin.com/in/maicon-silveira-18240132a" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="90px" alt="LinkedIn" /></a> | <span style="font-size: 16px; color: #0077B5;">Confira meu perfil no [LinkedIn](https://www.linkedin.com/in/maicon-silveira-18240132a)</span> |
-|:--------------------------------------------------:|:-------------------------------------------------------------------------------------:|
+|:--------------------------------------------------:|
 | Tecnologia | Descrição | Link |
 |:----------:|-----------|------|
 | ![Android Studio](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg) | **Android Studio** é a IDE oficial para desenvolvimento de aplicativos Android. Utilizo para criar e testar aplicativos móveis. | [Mais sobre Android Studio](https://developer.android.com/studio) |
