@@ -2,9 +2,10 @@
 
 Aqui estão algumas das principais tecnologias com as quais trabalho todos os dias. Cada uma delas desempenha um papel fundamental em meus projetos de desenvolvimento de software.
 
-<a href="https://www.linkedin.com/in/maicon-silveira-18240132a" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="90px" />
-</a> 
+<a href="https://www.linkedin.com/in/maicon-silveira-18240132a" target="_blank" style="display: flex; align-items: center; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="90px" alt="LinkedIn" />
+    <span style="margin-left: 10px; font-size: 16px; color: #0077B5;">Confira meu perfil no LinkedIn</span>
+</a>
 
 | Tecnologia | Descrição | Link |
 |:----------:|-----------|------|
