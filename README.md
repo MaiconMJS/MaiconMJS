@@ -5,7 +5,6 @@ Aqui estão algumas das principais tecnologias com as quais trabalho todos os di
 <a href="https://www.linkedin.com/in/maicon-silveira-18240132a" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="90px" />
 </a> 
-### LinkedIn - Conecte-se comigo para saber mais sobre meu trabalho e experiência.
 
 | Tecnologia | Descrição | Link |
 |:----------:|-----------|------|
